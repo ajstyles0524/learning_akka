@@ -9,7 +9,7 @@ target/
 *.ipr
 *.iws
 .idea
-
+.bsp
 # other?
 .history
 .scala_dependencies
