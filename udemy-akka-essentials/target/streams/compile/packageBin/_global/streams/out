@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/udemy-akka-essentials/target/scala-2.13/udemy-akka-essentials_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/playground[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/playground/Playground$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	playground/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/playground/Playground.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$MyList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$MyList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Person$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Crocodile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Crocodile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$MyList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$MyList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Person.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Carnivore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Carnivore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	part1Recap/GeneralRecap$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/udemy-akka-essentials/target/scala-2.13/classes/part1Recap/GeneralRecap$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
